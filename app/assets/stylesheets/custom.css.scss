@@ -4,3 +4,14 @@
 .chatbox {height:450px;}
 i.inverted.bordered.icon, i.inverted.circular.icon {background-color: #FEBE9A !important; color:black !important;}
 .ui.big.button.signupbtn {background: black !important; color: #FEBE9A !important;}
+
+#messages {
+  height:15em;
+  overflow:auto;
+}
+
+.input {
+  button {
+    display:none;
+  }
+}
